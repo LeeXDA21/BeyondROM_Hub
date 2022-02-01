@@ -1,6 +1,14 @@
 # BeyondROM Main Hub
 
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/BeyondROM_S20)
+![Current Issues](https://img.shields.io/github/issues-raw/LeeXDA21/BeyondROM_Hub?label=Current%20Issues%3A)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/LeeXDA21/BeyondROM_Hub?color=red&label=Closed%20Issues%3A)
+![](https://img.shields.io/github/downloads/LeeXDA21/BeyondROM_Hub/total?color=Green&label=Kit%20Downloads)
+![](https://img.shields.io/github/v/release/LeeXDA21/BeyondROM_Hub?color=greeen&include_prereleases&label=Current%20Kit%20Version%3A)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=S10%20Chat)](https://t.me/beyondrom_s10)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=S20%20Chat)](https://t.me/BeyondROM_S20)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=S21%20Chat)](https://t.me/+00MtTfRzreRlYzQ0)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=Beyond%20News)](https://t.me/+P7IDXNOdDHNmNGZk)
+[![](https://img.shields.io/discord/923564469571973120?label=Join%20Our%20Discord)](https://discord.gg/jawYw8525E)
 
 ![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
@@ -22,9 +30,6 @@
 * [S20](https://forum.xda-developers.com/t/rom-beyondrom-v3-1-24-03-2021-duc7-mar-patch-a11-g980f-g981b-g985f-g986b-g988b.4203109/)
 
 * [S21](https://forum.xda-developers.com/t/rom-beyondrom-v1-1-01-04-2021-auc8-exynos-sm-g99xx.4254933/post-84830965)
-
-* [Project Unbound]() *Coming Soon*
-
 
 ### How to gather logs with **LoggingKit**
 * Download the latest release via [LoggingKit_v5](https://github.com/LeeXDA21/BeyondROM_Hub/releases/download/v5.0/LoggingKit_v5.zip) and follow the legend.
