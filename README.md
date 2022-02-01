@@ -1,7 +1,7 @@
 # BeyondROM Main Hub
 
-![Current Issues](https://img.shields.io/github/issues-raw/LeeXDA21/BeyondROM_Hub?label=Current%20Issues%3A)
-![Closed Issues](https://img.shields.io/github/issues-closed-raw/LeeXDA21/BeyondROM_Hub?color=red&label=Closed%20Issues%3A)
+![Current Issues](https://img.shields.io/github/issues-raw/LeeXDA21/BeyondROM_Hub?color=red&label=Current%20Issues%3A)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/LeeXDA21/BeyondROM_Hub?color=green&label=Closed%20Issues%3A)
 ![](https://img.shields.io/github/downloads/LeeXDA21/BeyondROM_Hub/total?color=Green&label=Kit%20Downloads)
 ![](https://img.shields.io/github/v/release/LeeXDA21/BeyondROM_Hub?color=greeen&include_prereleases&label=Current%20Kit%20Version%3A)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=S10%20Chat)](https://t.me/beyondrom_s10)
@@ -9,6 +9,7 @@
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=S21%20Chat)](https://t.me/+00MtTfRzreRlYzQ0)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram&label=Beyond%20News)](https://t.me/+P7IDXNOdDHNmNGZk)
 [![](https://img.shields.io/discord/923564469571973120?label=Join%20Our%20Discord)](https://discord.gg/jawYw8525E)
+[![Download](https://img.shields.io/github/v/release/LeeXDA21/BeyondROM_Hub?color=green&logoColor=orange&label=Download%20Latest%20Kit&logo=DocuSign)](https://github.com/LeeXDA21/BeyondROM_Hub/releases/latest)
 
 ![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
