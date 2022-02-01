@@ -1,5 +1,7 @@
 # BeyondROM Main Hub
 
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/BeyondROM_S20)
+
 ![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 **Credits to Anan1211 for the Logging Kit.**
